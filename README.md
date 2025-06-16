@@ -9,7 +9,11 @@ Python, HTML, CSS.
 
 
 ## Stats
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username) 
+
 ![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzatSolon&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzatSolon&layout=compact)](https://github.com/AzatSolon/github-readme-stats)
 
 ## Feedback
