@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Azat! 👋
+I am a junior programmer from Russia
 
-<!--
-**AzatSolon/AzatSolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a python developer.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+Python, HTML, CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Stats
+![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzatSolon&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzatSolon&layout=compact)](https://github.com/AzatSolon/github-readme-stats)
+
+## Feedback
+If you have any feedback, please reach out to us at asolo4150@gmail.com ; https://t.me/SolonAzz
+
