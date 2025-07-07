@@ -22,4 +22,5 @@
 
 ## 📫 Контакты
 - Telegram: (https://t.me/SolonAzz)
-- Почта: azabat150@gmail.com 
+- Почта: asolo4150@gmail.com
+- Телефон +7 908 122 43 88
