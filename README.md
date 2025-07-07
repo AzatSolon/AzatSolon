@@ -1,21 +1,25 @@
-# Hi, I'm Azat! 👋
-I am a junior programmer from Russia
+# 👋 Привет, я Азат | Python-разработчик
 
-## 🚀 About Me
-I'm a python developer.
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org)
+[![Django](https://img.shields.io/badge/Django-4.2-092E20?logo=django&logoColor=white)](https://www.djangoproject.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)](https://fastapi.tiangolo.com)
 
-## 🛠 Skills
-Python, HTML, CSS.
+## 🛠 Технологии и навыки
+- **Backend**: Python, Django, FastAPI, DRF
+- **Frontend**: HTML/CSS, Bootstrap (базово)
+- **Базы данных**: PostgreSQL, SQLite
+- **Инструменты**: Git, Docker, pytest, Postman
 
+## 🏆 Лучшие проекты
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [Electronics Factory](https://github.com/AzatSolon/electronics_factory) | Система учета для производства | Django, SQLite |
+| [Bulletin Board](https://github.com/AzatSolon/bulletin_board) | Доска объявлений с API | DRF, PostgreSQL |
 
-## Stats
-[![codewars](https://www.codewars.com/users/username/badges/large)] (https://www.codewars.com/users/AzatSolon/badges/large)
+## 📈 Статистика
+[![Codewars](https://www.codewars.com/users/AzatSolon/badges/large)](https://www.codewars.com/users/AzatSolon)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzatSolon&show_icons=true&theme=radical)](https://github.com/AzatSolon)
 
-![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzatSolon&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzatSolon&layout=compact)](https://github.com/AzatSolon/github-readme-stats)
-
-## Feedback
-If you have any feedback, please reach out to us at asolo4150@gmail.com ; https://t.me/SolonAzz
-
+## 📫 Контакты
+- Telegram: (https://t.me/SolonAzz)
+- Почта: azabat150@gmail.com 
